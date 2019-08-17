@@ -1,7 +1,7 @@
-Barefoot Nomad - Making company travel and accomodation easy and convinient.
+ZCommerce - Making Buying and Selling fun.
 =======
 
 ## Vision
-Make company global travel and accommodation easy and convenient for the strong workforce of savvy members of staff, by leveraging the modern web.
+Making buying and selling fun, easy and convenient for both entrepreneurs and customers, by leveraging the modern web.
 
 ---
